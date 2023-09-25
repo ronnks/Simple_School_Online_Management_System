@@ -1,4 +1,4 @@
-<h1># Simple_School_Online_Management_System.</html>
+<h1># Simple_School_Online_Management_System.<h1>
   <h2>1. Description.</h2>
      i) The System lays fundamental unique connection of different essential parts of getting and Storing students objects mappings.
      
