@@ -7,11 +7,11 @@
        i) Front-end.
          - Plan JS, HTML, CSS.
 
-           *IMPORTANT.
-             -Later version to be soon released, writtrn in TYPESCRIPT, in ANGULAR FRAMEWORK.
-     
-          ii) Back-end.
-               - Written in JAVA, incorporated with SPRING FRAMEWORK.
+         *IMPORTANT.
+           -Later version to be soon released, writtrn in TYPESCRIPT, in ANGULAR FRAMEWORK.
+ 
+      ii) Back-end.
+           - Written in JAVA, incorporated with SPRING FRAMEWORK.
                  
 <h1># Project Functionality.</h1>
   - Addition of data takes place in the UI and the back-end handles data storage, data retrieval and data web transmissions.
