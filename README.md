@@ -4,10 +4,10 @@
      
   <h2>2. Build Technologies.</h2>
      <pre>
-       <h3>i) Front-end.<h3>
+       <h3>i) Front-end.</h3>h3>
          - Plan JS, HTML, CSS.
 
-           <h3>*IMPORTANT.<h3>
+           <h3>*IMPORTANT.</h3>
              -Later version to be soon released, writtrn in TYPESCRIPT, in ANGULAR FRAMEWORK.
      
           <h3>ii) Back-end.</h3>
