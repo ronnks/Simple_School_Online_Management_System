@@ -9,7 +9,7 @@
            <h3>*IMPORTANT.<h3>
              -Later version to be soon released, writtrn in TYPESCRIPT, in ANGULAR FRAMEWORK.
      
-    <h2>ii) Back-end.</h2>
+    <h3>ii) Back-end.</h3>
          - Written in JAVA, incorporated with SPRING FRAMEWORK.
                  
 <h1># Project Functionality.</h1>
