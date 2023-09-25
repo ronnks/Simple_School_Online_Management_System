@@ -3,7 +3,8 @@
      i) The System lays fundamental unique connection of different essential parts of getting and Storing students objects mappings.
      
   <h2>2. Build Technologies.</h2>
-     <pre><h3>i) Front-end.<h3>
+     <pre>
+       <h3>i) Front-end.<h3>
          - Plan JS, HTML, CSS.
 
            <h3>*IMPORTANT.<h3>
