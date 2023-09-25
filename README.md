@@ -4,13 +4,13 @@
      
   <h2>2. Build Technologies.</h2>
      
-       <h3>i) Front-end.</h3>h3>
+       i) Front-end.
          - Plan JS, HTML, CSS.
 
-           <h3>*IMPORTANT.</h3>
+           *IMPORTANT.
              -Later version to be soon released, writtrn in TYPESCRIPT, in ANGULAR FRAMEWORK.
      
-          <h3>ii) Back-end.</h3>
+          ii) Back-end.
                - Written in JAVA, incorporated with SPRING FRAMEWORK.
                  
 <h1># Project Functionality.</h1>
