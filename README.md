@@ -9,8 +9,8 @@
            <h3>*IMPORTANT.<h3>
              -Later version to be soon released, writtrn in TYPESCRIPT, in ANGULAR FRAMEWORK.
      
-    <h3>ii) Back-end.</h3>
-         - Written in JAVA, incorporated with SPRING FRAMEWORK.
+          <h3>ii) Back-end.</h3>
+               - Written in JAVA, incorporated with SPRING FRAMEWORK.
      </pre>            
 <h1># Project Functionality.</h1>
   - Addition of data takes place in the UI and the back-end handles data storage, data retrieval and data web transmissions.
