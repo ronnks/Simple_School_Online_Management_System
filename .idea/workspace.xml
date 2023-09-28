@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cebabe8-9692-4783-bbed-d29fbb37e212" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONFIGURATION/AssignmentDSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONFIGURATION/AssignmentDSC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONFIGURATION/AssignmentGradeDSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONFIGURATION/AssignmentGradeDSC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONFIGURATION/ClassroomDSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONFIGURATION/ClassroomDSC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONFIGURATION/CourseDSC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONFIGURATION/StudentDSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONFIGURATION/StudentDSC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONFIGURATION/TeacherDSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONFIGURATION/TeacherDSC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONTROLLERS/assignment/AssignmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONTROLLERS/assignment/AssignmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONTROLLERS/assignmentGrade/AssignmentGradeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONTROLLERS/assignmentGrade/AssignmentGradeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONTROLLERS/classroom/ClassroomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONTROLLERS/classroom/ClassroomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONTROLLERS/course/CourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONTROLLERS/student/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONTROLLERS/student/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/CONTROLLERS/teacher/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/CONTROLLERS/teacher/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/DATA/assignment/AssignmentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/DATA/assignment/AssignmentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/DATA/assignmentGrade/AssignmentGradeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/DATA/assignmentGrade/AssignmentGradeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/DATA/classroom/ClassroomRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/DATA/classroom/ClassroomRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/DATA/course/CourseRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/DATA/student/StudentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/DATA/student/StudentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/DATA/teacher/TeacherRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/DATA/teacher/TeacherRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/EXTERNAL/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/EXTERNAL/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/MODELS/assignment/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/MODELS/assignment/Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/MODELS/assignmentGrade/AssignmentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/MODELS/assignmentGrade/AssignmentGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/MODELS/classroom/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/MODELS/classroom/Classroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/MODELS/course/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/MODELS/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/MODELS/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/MODELS/teacher/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/MODELS/teacher/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/ManagementSystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/ManagementSystemApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/VIEWS/classroom/ClassroomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/VIEWS/classroom/ClassroomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/VIEWS/classroom/ClassroomServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/VIEWS/classroom/ClassroomServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/VIEWS/student/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/VIEWS/student/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementsystem/VIEWS/student/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/java/com/SMM/managementSystem/VIEWS/student/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/management-system/src/test/java/com/SMM/managementsystem/ManagementSystemApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/management-system/src/test/java/com/SMM/managementSystem/ManagementSystemApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2VvFVlBjhHgdp14VoOnoOB7PSPc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ronns/school-management-school-app/Simple_School_Online_Management_System/back-end",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="managementSystemManagementSystemApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Simple_School_Online_Management_System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Simple_School_Online_Management_System" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cebabe8-9692-4783-bbed-d29fbb37e212" name="Changes" comment="" />
+      <created>1695708673048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695708673048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
